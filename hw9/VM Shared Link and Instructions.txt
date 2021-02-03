@@ -1,0 +1,13 @@
+I am submitting this project on behalf of group A9-11:
+Team members:
+Steve Jean
+Woo Yong Jeong
+Katherine Jones
+Elsa Rodriguez Plaza
+Tong Zhai
+The instructions for running our program can be found inside the Virtual Machine we have shared.
+Here is link to the .OVA file:
+https://drive.google.com/file/d/1HLdl_pP8FTTbVHHKwksUROJM82YjOEIx/view?usp=sharing
+Please reach out if you find any difficulties either running the program or accessing the VM.
+Best Regards,
+Elsa Rodriguez Plaza
